@@ -1,0 +1,7 @@
+payload:
+  # > avdb
+  - DOMAIN-KEYWORD,javdb
+  - DOMAIN-KEYWORD,jdbstatic
+
+    # > playno1
+  - DOMAIN-SUFFIX,playno1.com
